@@ -14,7 +14,7 @@ MarkDown ‚Å‘‚¢‚Ä‚İ‚é
 
 
 <pre>
-code ‚Í <pre> ‚ÅˆÍ‚Ş
+code ‚Í &lt;pre&gt; ‚ÅˆÍ‚Ş
 </pre>
 
 
