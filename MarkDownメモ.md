@@ -1,24 +1,31 @@
 MarkDown で書いてみる
-========
+=====================
 
 ## 見出し2
 
-- リスト
-- あ
- - ああ
-- い
- - いい
-- う
-- え
+下線が付く
 
 
-    pre
-    code
+### 番号リスト
+1.
+ 1.1.
+2.
+ 2.1.
 
-    <html>
-    </html>
 
-    http://www.fandmnet.com/
+<pre>
+code は <pre> で囲む
+</pre>
 
-http://www.fandmnet.com/
+
+```
+コードブロック？
+
+```
+
+リンクは直接
+
+http://www.fandmnet.com
+
+
 
