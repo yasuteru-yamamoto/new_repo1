@@ -14,13 +14,15 @@ MarkDown
 - ‚¦
 
 
+<pre>
+    pre
     code
 
     <html>
     </html>
 
-
     http://www.fandmnet.com/
+</pre>
 
 http://www.fandmnet.com/
 
